@@ -39,7 +39,7 @@ public class Nightshade : MonoBehaviour, IDamageble
 
     public void Damaged(float value)
     {
-        health.DecreaseValueLimited(value);
+        health.DecreaseValue(value);
     }
     
     public void Died()

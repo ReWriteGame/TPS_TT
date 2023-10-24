@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8366d97523a2b1a43a9cd330145b5c18, type: 3}
   m_Name: NormalGunPatronData
   m_EditorClassIdentifier: 
-  forceMove: 10
+  forceMove: 7.8
+  damage: 6.8
